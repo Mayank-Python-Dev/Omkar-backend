@@ -1,6 +1,6 @@
 services:
   backend:
-    image: mayank1412/omkar-backend     
+    image: mayank1412/omkar-backend:1     
     ports:
       - "9000:9000"
     volumes:
@@ -8,7 +8,7 @@ services:
     command: bash -c "python manage.py makemigrations && python manage.py migrate && python manage.py runserver 0.0.0.0:9000"
 
   frontend:
-    image: mayank1412/omkar-frontend
+    image: mayank1412/omkar-frontend:1
     ports:
       - "3000:3000"
     volumes:
