@@ -1,3 +1,4 @@
+.env
 *.ipynb
 frontend/
 frontend/build/
