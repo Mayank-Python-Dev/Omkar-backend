@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4a9cd881.css",
+    "main.js": "/static/js/main.71e02b6f.js",
+    "pdfmake.js": "/static/js/pdfmake.470a70cd.chunk.js",
+    "canvg.js": "/static/js/canvg.23129d72.chunk.js",
+    "xlsx.js": "/static/js/xlsx.2675b62c.chunk.js",
+    "static/js/498.e72041c1.chunk.js": "/static/js/498.e72041c1.chunk.js",
+    "static/js/703.67102df2.chunk.js": "/static/js/703.67102df2.chunk.js",
+    "static/js/692.c5213586.chunk.js": "/static/js/692.c5213586.chunk.js",
+    "static/js/990.ba0ff651.chunk.js": "/static/js/990.ba0ff651.chunk.js",
+    "static/media/warehouseImg.webp": "/static/media/warehouseImg.b291c042c083e68a46c6.webp",
+    "static/media/delete.png": "/static/media/delete.ca5508558bd914ddaa09.png",
+    "static/media/userIcon.webp": "/static/media/userIcon.7a6a6c54279a54d1977c.webp",
+    "static/media/logo.png": "/static/media/logo.88edb8a78fde97625366.png",
+    "index.html": "/index.html",
+    "main.4a9cd881.css.map": "/static/css/main.4a9cd881.css.map",
+    "main.71e02b6f.js.map": "/static/js/main.71e02b6f.js.map",
+    "pdfmake.470a70cd.chunk.js.map": "/static/js/pdfmake.470a70cd.chunk.js.map",
+    "canvg.23129d72.chunk.js.map": "/static/js/canvg.23129d72.chunk.js.map",
+    "xlsx.2675b62c.chunk.js.map": "/static/js/xlsx.2675b62c.chunk.js.map",
+    "498.e72041c1.chunk.js.map": "/static/js/498.e72041c1.chunk.js.map",
+    "703.67102df2.chunk.js.map": "/static/js/703.67102df2.chunk.js.map",
+    "692.c5213586.chunk.js.map": "/static/js/692.c5213586.chunk.js.map",
+    "990.ba0ff651.chunk.js.map": "/static/js/990.ba0ff651.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a9cd881.css",
+    "static/js/main.71e02b6f.js"
+  ]
+}
