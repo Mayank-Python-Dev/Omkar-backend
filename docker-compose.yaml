@@ -4,7 +4,7 @@ services:
     ports:
       - "9000:9000"
     volumes:
-      - ./../backend:/backend
+      - ./../Omkar-backend:/backend
     command: bash -c "python manage.py makemigrations && python manage.py migrate && python manage.py runserver 0.0.0.0:9000"
 
   frontend:
